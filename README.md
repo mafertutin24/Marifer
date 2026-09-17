@@ -33,9 +33,12 @@
 </div>
 
 <div align="center">
+  =====================================
   `Developer, Gamer, and Creative`
   <br>
   o(≧∇≦o)
+  =====================================
+  <br>
 </div>
 
 <div>
