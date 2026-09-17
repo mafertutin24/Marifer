@@ -16,6 +16,20 @@
   <a href="https://github.com/Marifer?tab=followers">
     <img src="https://img.shields.io/github/followers/Marifer?style=social" alt="Followers" />
   </a>
-</p><img width="300" height="75" alt="banner-github-marifer-v2 (1)" src="https://github.com/user-attachments/assets/3842472b-ea62-41e9-853d-b6b78905e87f" />
 
 <div>
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 Estudiante de Desarrollo de aplicaciones Web.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱  I’m always studying **JavaScript**, **Python**, **Java**, **C**, **C++**, **HTML**, **CSS**.
+
+  - ⚡ Dato curioso: Me gustan los acertijos y retos...
+
+  <br>
+  
+
+</div>
